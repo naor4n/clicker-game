@@ -8,4 +8,9 @@ bananaImage.addEventListener('click', () => {
     // Update the display or send a request to the server
     clickCountElement.textContent = bananas
     console.log('Banans:', bananas)
+
+if(bananas === 10){
+    bananaImage.src = "images/PeeledBanaCat.png";
+}
+
 })
