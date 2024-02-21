@@ -1,1 +1,1 @@
-# clicker-game
+# BanaCat clicker-game
